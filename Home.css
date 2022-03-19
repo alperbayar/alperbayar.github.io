@@ -262,7 +262,7 @@
 
 @media (max-width: 575px) {
    .u-section-2 {
-    min-height: 1014px;
+    min-height: 1738px;
   }
 
   .u-section-2 .u-shape-1 {
@@ -270,15 +270,16 @@
   }
 
   .u-section-2 .u-image-1 {
-    width: 326px;
-    height: 326px;
+    width: 301px;
+    height: 301px;
+    margin-top: -253px;
     margin-right: calc(((100% - 340px) / 2));
   }
 
   .u-section-2 .u-image-2 {
     width: 190px;
     height: 190px;
-    margin-top: 20px;
+    margin-top: -146px;
     margin-right: calc(((100% - 340px) / 2));
     margin-left: auto;
   }
